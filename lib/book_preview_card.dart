@@ -3,9 +3,9 @@ import "package:flutter/material.dart";
 final List<int> numbers = [1, 2, 3, 5, 8, 13, 21, 34, 55];
 
 class BookPreviewCard extends StatelessWidget {
-  final child;
+  final String child;
 
-  BookPreviewCard({this.child});
+  const BookPreviewCard({required this.child});
 
   @override
   Widget build(BuildContext context) {
@@ -14,7 +14,9 @@ class BookPreviewCard extends StatelessWidget {
       child: Container(
         height: 200,
         color: Colors.deepPurple,
-        child: Text(child),
+        child: Center(
+          child: Text(child),
+        ),
       ),
     );
   }
