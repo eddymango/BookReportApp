@@ -19,7 +19,7 @@ class FirstPage extends StatelessWidget {
         centerTitle: true,
         elevation: 4.0,
         leading: IconButton(
-          icon: const Icon(Icons.cake),
+          icon: const Icon(Icons.search),
           onPressed: () => {},
         ),
         actions: [
