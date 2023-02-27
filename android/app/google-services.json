@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325076883622",
+    "project_id": "bookreportapp-adc71",
+    "storage_bucket": "bookreportapp-adc71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325076883622:android:bbb528762aa0c3635cbc67",
+        "android_client_info": {
+          "package_name": "com.example.book_report"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325076883622-qehrqmg61tf690qhl4r5pm5ef8hlp449.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxniwzmuPAMBfPzDyqvJTd9gS0BptGFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325076883622-qehrqmg61tf690qhl4r5pm5ef8hlp449.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
